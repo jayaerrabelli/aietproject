@@ -99,9 +99,10 @@ Answer: <example answer returned by the pipeline>
 
 Group 8
 
-- `<Member 1>`
-- `<Member 2>`
-- `<Member 3>`
+- `Murali Grandhi`
+- `Kalpana Deverapalli`
+- `Priya Ghuse`
+- `Jayashree Errabelli`
 
 ## License
 
